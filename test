@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="FR-fr">
+<head>
+    <meta charset="utf-8">
+    <title>Nous contacter</title>
+</head>
+<body>
+
+        <header>
+        <a href="Sans titre-1.html">
+        <img src="mouette vs mouette.jpg" alt="quelle est la bonne ?"></a>
+        <nav>
+            <a href="https://google.com">A propos</a>
+            <a href="https://maps.com">Nos services</a>
+            <a href="contact.html">Contact</a>
+
+        </nav>
+    </header>
+</body>
+</html>
